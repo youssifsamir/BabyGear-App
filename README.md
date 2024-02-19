@@ -13,6 +13,7 @@ Welcome to the Baby Gears Rental App repository! This mobile application is buil
 - **User Authentication**: Users can sign up, log in, and manage their accounts securely.
 - **Extensive Gear Catalog Browsing**: A wide range of baby gears such as strollers, cribs, car seats, etc., can be browsed easily.
 - **Smart Search Functionality**: Users can search for specific baby gears based on categories, keywords, or filters.
+- **Super Filtering Functionality**: Users can filter through products for specific baby gears based on brands and categories.
 - **Rental Management**: Users can view their current rentals, rental history, and manage their bookings.
 - **Booking System**: Seamless booking process allowing users to select rental duration, pick-up/delivery options, and make payments securely.
 - **Selling System**: Secure selling process allowing users to offer their gear products for rental.
@@ -21,6 +22,8 @@ Welcome to the Baby Gears Rental App repository! This mobile application is buil
 - **Customer Support**: In-app support system for users to contact customer service for assistance or queries.
 - **Location-based Recommendations**: Utilizes user's location to provide personalized recommendations and nearby rental locations.
 - **Subscription Plans**: Offers subscription plans for frequent users with benefits such as discounts, priority bookings, and exclusive deals.
+- **Smooth Usability:** Experience seamless interactions and fluid transitions throughout the app.
+- **Clean UI/UX:** Enjoy a visually appealing interface designed for easly navigation and intuitive use.
 
 
 ## Getting Started
