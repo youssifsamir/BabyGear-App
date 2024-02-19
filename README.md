@@ -3,8 +3,6 @@
 Welcome to the Baby Gears Rental App repository! This mobile application is built using Flutter and Dart, providing a smooth user experience and clean UI/UX design. The app aims to facilitate the rental of baby gears for parents and caretakers, offering a convenient platform to browse, rent, and manage baby equipment.
 
 
-
-
 ## Quick Preview
 
 [![Watch the video](https://github.com/youssifsamir/BabyGear-App/assets/113045942/721dde07-1e27-445a-9056-35cb4c5bfc1e)](https://streamable.com/lx9ihq)
@@ -25,7 +23,6 @@ Welcome to the Baby Gears Rental App repository! This mobile application is buil
 - **Subscription Plans**: Offers subscription plans for frequent users with benefits such as discounts, priority bookings, and exclusive deals.
 
 
-
 ## Getting Started
 
 To get started with the Baby Gears Rental App:
@@ -42,6 +39,9 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 
 ## Contributing
