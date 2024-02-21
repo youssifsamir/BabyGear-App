@@ -5,7 +5,7 @@ Welcome to the Baby Gears Rental App repository! This mobile application is buil
 
 ## 🔥 Quick Preview
 
-[![Watch the video](https://github.com/youssifsamir/BabyGear-App/assets/113045942/721dde07-1e27-445a-9056-35cb4c5bfc1e)](https://streamable.com/lx9ihq)
+[![Watch the video](https://github.com/youssifsamir/BabyGear-App/assets/113045942/721dde07-1e27-445a-9056-35cb4c5bfc1e)](https://vimeo.com/915056730?share=copy)
 
 
 ## Features
